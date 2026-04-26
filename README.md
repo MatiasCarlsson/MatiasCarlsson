@@ -93,7 +93,4 @@
 	<li><strong>Oportunidades freelance y profesionales</strong></li>
 </ul>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/matias-carlsson/"><img src="https://img.shields.io/badge/LinkedIn-MatiasCarlsson-%23bf00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%2312002e" alt="LinkedIn" /></a>
-	<a href="mailto:matiascarlsson1@gmail.com"><img src="https://img.shields.io/badge/Email-matiascarlsson1%40gmail.com-%23d946ef?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%2312002e" alt="Email" /></a>
-</p>
+
