@@ -1,19 +1,25 @@
 <h1 align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00A884&lines=Hola%2C+bienvenido+a+mi+perfil;Soy+Matias+Carlsson;Desarrollador+Fullstack&center=true&size=30" alt="Typing SVG" />
-	</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Goldman&weight=400&size=26&duration=1900&pause=900&color=F7D6FF&background=2A0050EE&center=true&vCenter=true&random=true&width=520&lines=Soy+Matias+Carlsson;Desarrollador+Full-Stack;Backend+y+arquitectura+moderna" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
-	Hola, soy <strong>Matias Carlsson</strong>.<br>
+	<strong>Hola, soy Matias Carlsson.</strong><br>
 	Me apasiona construir soluciones web escalables y con impacto real.<br>
 	Trabajo principalmente en <strong>desarrollo Fullstack</strong>, con foco en backend y buenas practicas de arquitectura.<br>
 	Siempre estoy aprendiendo, mejorando y abierto a colaborar en proyectos desafiantes.
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/Backend--First-%23bf00ff?style=for-the-badge&labelColor=%2312002e" alt="Backend First" />
+	<img src="https://img.shields.io/badge/Codigo+Limpio-%23d946ef?style=for-the-badge&labelColor=%2312002e" alt="Codigo Limpio" />
+	<img src="https://img.shields.io/badge/Arquitectura+Escalable-%237c3aed?style=for-the-badge&labelColor=%2312002e" alt="Arquitectura Escalable" />
+</p>
+
 ---
 
 <h2 align="center">Tecnologias y herramientas</h2>
+
+<p align="center"><strong>Stack principal con el que construyo y despliego proyectos modernos.</strong></p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -33,6 +39,8 @@
 
 <h2 align="center">Estadisticas de GitHub</h2>
 
+<p align="center"><strong>Actividad, constancia y evolucion en codigo abierto.</strong></p>
+
 <div align="center">
 	<a href="https://github.com/MatiasCarlsson">
 		<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarlsson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -44,6 +52,8 @@
 ---
 
 <h2 align="center">Actividad de contribuciones</h2>
+
+<p align="center"><strong>Visual de commits y contribuciones en tiempo real.</strong></p>
 
 <p align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasCarlsson&theme=tokyo-night" alt="GitHub Activity Graph" />
@@ -58,10 +68,17 @@
 
 <h2 align="center">Colaboremos</h2>
 
-Estoy abierto a participar en:
+<p>
+<strong>Estoy abierto a participar en:</strong>
+</p>
 
-- Proyectos web Fullstack
-- Colaboraciones open source
-- Oportunidades freelance y profesionales
+<ul>
+	<li><strong>Proyectos web Fullstack</strong></li>
+	<li><strong>Colaboraciones open source</strong></li>
+	<li><strong>Oportunidades freelance y profesionales</strong></li>
+</ul>
 
-Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/matias-carlsson/) o por correo en `matiascarlsson1@gmail.com`.
+<p align="center">
+	<a href="https://www.linkedin.com/in/matias-carlsson/"><img src="https://img.shields.io/badge/LinkedIn-MatiasCarlsson-%23bf00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%2312002e" alt="LinkedIn" /></a>
+	<a href="mailto:matiascarlsson1@gmail.com"><img src="https://img.shields.io/badge/Email-matiascarlsson1%40gmail.com-%23d946ef?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%2312002e" alt="Email" /></a>
+</p>
