@@ -11,8 +11,8 @@
     <td width="50%" align="center" valign="middle">
       <p>
         <strong>Hola, soy Matias Carlsson.</strong><br>
-        Me apasiona construir soluciones web escalables y con impacto real.<br>
-        Trabajo principalmente en <strong>desarrollo Fullstack</strong>, con foco en backend y buenas practicas de arquitectura.<br>
+        Me apasiona construir soluciones web <br>escalables y con impacto real.<br>
+        Trabajo principalmente en <strong>desarrollo Fullstack</strong>, <br>con foco en backend y buenas practicas de arquitectura.<br>
         Siempre estoy aprendiendo, mejorando y abierto a colaborar en proyectos desafiantes.
       </p>
     </td>
@@ -23,9 +23,12 @@
 </table>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Backend--First-%23bf00ff?style=for-the-badge&labelColor=%2312002e" alt="Backend First" />
-	<img src="https://img.shields.io/badge/Codigo+Limpio-%23d946ef?style=for-the-badge&labelColor=%2312002e" alt="Codigo Limpio" />
-	<img src="https://img.shields.io/badge/Arquitectura+Escalable-%237c3aed?style=for-the-badge&labelColor=%2312002e" alt="Arquitectura Escalable" />
+	<a href="https://www.linkedin.com/in/matias-carlsson/">
+		<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="mailto:matiascarlsson1@gmail.com">
+		<img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
 </p>
 
 ---
