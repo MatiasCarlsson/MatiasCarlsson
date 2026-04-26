@@ -43,10 +43,9 @@
 
 <div align="center">
 	<a href="https://github.com/MatiasCarlsson">
-		<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarlsson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+		<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCarlsson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 	</a>
-	<br />
-	<img width="390" src="https://github-readme-stats.vercel.app/api?username=MatiasCarlsson&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatiasCarlsson&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
