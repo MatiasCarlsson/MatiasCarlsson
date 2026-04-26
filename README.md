@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+	<img src="https://komarev.com/ghpvc/?username=MatiasCarlsson&label=Visitas%20al%20perfil&color=bf00ff&style=flat" alt="Visitas de perfil" />
+</p>
+
+<p align="center">
 	<strong>Hola, soy Matias Carlsson.</strong><br>
 	Me apasiona construir soluciones web escalables y con impacto real.<br>
 	Trabajo principalmente en <strong>desarrollo Fullstack</strong>, con foco en backend y buenas practicas de arquitectura.<br>
