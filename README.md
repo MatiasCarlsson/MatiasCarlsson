@@ -6,12 +6,21 @@
 	<img src="https://komarev.com/ghpvc/?username=MatiasCarlsson&label=Visitas%20al%20perfil&color=bf00ff&style=flat" alt="Visitas de perfil" />
 </p>
 
-<p align="center">
-	<strong>Hola, soy Matias Carlsson.</strong><br>
-	Me apasiona construir soluciones web escalables y con impacto real.<br>
-	Trabajo principalmente en <strong>desarrollo Fullstack</strong>, con foco en backend y buenas practicas de arquitectura.<br>
-	Siempre estoy aprendiendo, mejorando y abierto a colaborar en proyectos desafiantes.
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <p>
+        <strong>Hola, soy Matias Carlsson.</strong><br>
+        Me apasiona construir soluciones web escalables y con impacto real.<br>
+        Trabajo principalmente en <strong>desarrollo Fullstack</strong>, con foco en backend y buenas practicas de arquitectura.<br>
+        Siempre estoy aprendiendo, mejorando y abierto a colaborar en proyectos desafiantes.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" width="300" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Backend--First-%23bf00ff?style=for-the-badge&labelColor=%2312002e" alt="Backend First" />
